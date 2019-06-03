@@ -1,3 +1,4 @@
 ipyvolume==0.5.1
 ipywidgets==7.4.2
 widgetsnbextension==3.4.2
+scikit-learn==0.21.2
